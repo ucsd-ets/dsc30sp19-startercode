@@ -1,0 +1,46 @@
+Successully created checking account for Checking.
+Successully created savings account for Savings.
+THE MINIMUM INITIAL DEPOSIT FOR A CHECKING ACCOUNT WAS NOT MET!
+Successully created checking account for DSC20.
+DSC20 ALREADY HAD A CHECKING ACCOUNT!
+Successully created checking account for Checking.
+Successully created savings account for Savings.
+Successully created checking account for Checking.
+Successully created savings account for Savings.
+Successully created checking account for Checking.
+Successully created savings account for Savings.
+nonExist DOES NOT HAVE A CHECKING ACCOUNT!
+Successully created checking account for Checking.
+Successully created savings account for Savings.
+Successully created checking account for DSC20.
+Successully created checking account for Checking.
+Successully created savings account for Savings.
+THE MAXIMUM AMOUNT THE USER: (Checking) CAN WITHDRAW FROM THEIR CHECKING ACCOUNT IS ($1500.0)
+nonExist DOES NOT HAVE A CHECKING ACCOUNT!
+Successully created checking account for Checking.
+Successully created savings account for Savings.
+THE MINIMUM INITIAL DEPOSIT FOR A CHECKING ACCOUNT WAS NOT MET!
+Successully created savings account for DSC20.
+DSC20 ALREADY HAD A SAVINGS ACCOUNT!
+Successully created checking account for Checking.
+Successully created savings account for Savings.
+Adam DOES NOT HAVE A SAVINGS ACCOUNT!
+Alex DOES NOT HAVE A CHECKING ACCOUNT!
+Adam DOES NOT HAVE A CHECKING ACCOUNT!
+Alex DOES NOT HAVE A SAVINGS ACCOUNT!
+Chad DOES NOT HAVE A CHECKING ACCOUNT!
+Don DOES NOT HAVE A SAVINGS ACCOUNT!
+THE MAXIMUM AMOUNT THE USER: (Checking) CAN WITHDRAW FROM THEIR CHECKING ACCOUNT IS ($2000.0)
+Successully created checking account for Checking.
+Successully created savings account for Savings.
+nonExist DOES NOT HAVE A CHECKING ACCOUNT!
+Successully created checking account for Checking.
+Successully created savings account for Savings.
+Savings SHOULD USE A CHECKING ACCOUNT!
+Adam DOES NOT HAVE A CHECKING ACCOUNT!
+Adam DOES NOT HAVE A SAVINGS ACCOUNT!
+Adam DOES NOT HAVE A CHECKING ACCOUNT!
+USER: (Checking) CANNOT MAKE A WITHDRAWAL FROM THEIR CHECKING ACCOUNT UNTIL THEY COVER THEIR NEGATIVE BALANCE WITH A DEPOSIT OF AT LEAST ($36.0)
+Successully created checking account for Checking.
+Successully created savings account for Savings.
+Successully created savings account for DSC20.
