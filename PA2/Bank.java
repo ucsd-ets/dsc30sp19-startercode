@@ -186,7 +186,7 @@ public class Bank {
      */
     public boolean checkTransfer(String fromAccountID,boolean isFromChecking, String toAccountID,
                                  boolean isToChecking, double amount) {
-        String shouldUseCheckingMSG = fromAccountID + " SHOULD USE A CHECKING ACCOUNT!"
+        String shouldUseCheckingMSG = fromAccountID + " SHOULD USE A CHECKING ACCOUNT!";
         // TODO
 
         return false;
