@@ -63,31 +63,17 @@ public class DictionaryCount {
     }
 
     public static ArrayList<Pair> populateDict(ArrayList<Pair> pairs) {
-        Sorts<Pair> sorts = new Sorts<>();
-        sorts.QuickSort(pairs, 0, pairs.size() - 1);
-        return pairs;
+        // TODO
+        return null;
     }
 
     public static boolean searchDict(ArrayList<Pair> dict, String toSearch) {
-        BinarySearch<Pair> binarySearch = new BinarySearch<>();
-        Integer i = binarySearch.binarySearch(dict, 0, dict.size() - 1, new Pair(toSearch));
-        if (i != null) {
-            dict.get(i).incCount();
-            return true;
-        }
+        
+        // TODO
         return false;
     }
 
     public static void main(String[] args) {
-        ArrayList<Pair> dict = readDict(args[0]);
-        ArrayList<String> words = readWords(args[1]);
-        populateDict(dict);
-        for (String w : words) {
-            searchDict(dict, w);
-        }
-        Collections.sort(dict, new CountComp());
-        System.out.println(dict.get(0).getWord());
-        System.out.println(dict.get(1).getWord());
-        System.out.println(dict.get(2).getWord());
+        // TODO
     }
 }

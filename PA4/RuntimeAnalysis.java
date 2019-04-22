@@ -36,13 +36,9 @@ public class RuntimeAnalysis {
 
     public static void timeInsertionSort(ArrayList<Integer> data, int numRun) {
         long startTime = 0, endTime = 0, totalTime = 0;
-        Sorts<Integer> sorts = new Sorts<>();
-        for (int i = 0; i < numRun; i++) {
-            startTime = System.currentTimeMillis();
-            sorts.InsertionSort(data, 0, data.size() - 1);
-            endTime = System.currentTimeMillis();
-            totalTime += (endTime - startTime);
-        }
+        
+        // TODO
+        
         System.out.println();
         System.out.println("Benchmarking insertion sort: ");
         System.out.println("Number of data to sort: " + data.size());
@@ -52,13 +48,9 @@ public class RuntimeAnalysis {
 
     public static void timeMergeSort(ArrayList<Integer> data, int numRun) {
         long startTime = 0, endTime = 0, totalTime = 0;
-        Sorts<Integer> sorts = new Sorts<>();
-        for (int i = 0; i < numRun; i++) {
-            startTime = System.currentTimeMillis();
-            sorts.MergeSort(data, 0, data.size() - 1);
-            endTime = System.currentTimeMillis();
-            totalTime += (endTime - startTime);
-        }
+        
+        // TODO
+        
         System.out.println();
         System.out.println("Benchmarking merge sort: ");
         System.out.println("Number of data to sort: " + data.size());
@@ -68,13 +60,9 @@ public class RuntimeAnalysis {
 
     public static void timeQuickSort(ArrayList<Integer> data, int numRun) {
         long startTime = 0, endTime = 0, totalTime = 0;
-        Sorts<Integer> sorts = new Sorts<>();
-        for (int i = 0; i < numRun; i++) {
-            startTime = System.currentTimeMillis();
-            sorts.QuickSort(data, 0, data.size() - 1);
-            endTime = System.currentTimeMillis();
-            totalTime += (endTime - startTime);
-        }
+        
+        // TODO
+        
         System.out.println();
         System.out.println("Benchmarking quick sort: ");
         System.out.println("Number of data to sort: " + data.size());
@@ -84,15 +72,9 @@ public class RuntimeAnalysis {
 
     public static void timeBinarySearch(ArrayList<Integer> sortedData, ArrayList<Integer> toSearch, int numRun) {
         long startTime = 0, endTime = 0, totalTime = 0;
-        BinarySearch<Integer> binarySearch = new BinarySearch<>();
-        for (int i = 0; i < numRun; i++) {
-            startTime = System.currentTimeMillis();
-            for (Integer num : toSearch) {
-                binarySearch.binarySearch(sortedData, 0, sortedData.size() - 1, num);
-            }
-            endTime = System.currentTimeMillis();
-            totalTime += (endTime - startTime);
-        }
+        
+        // TODO
+        
         System.out.println();
         System.out.println("Benchmarking Binary Search on sorted array: ");
         System.out.println("Number of data in sorted array: " + sortedData.size());
@@ -103,18 +85,9 @@ public class RuntimeAnalysis {
 
     public static void timeLinearSearch(ArrayList<Integer> sortedData, ArrayList<Integer> toSearch, int numRun) {
         long startTime = 0, endTime = 0, totalTime = 0;
-        for (int i = 0; i < numRun; i++) {
-            startTime = System.currentTimeMillis();
-            for (Integer num : toSearch) {
-                for (Integer d : sortedData) {
-                    if (d.equals(num)) {
-                        break;
-                    }
-                }
-            }
-            endTime = System.currentTimeMillis();
-            totalTime += (endTime - startTime);
-        }
+        
+        // TODO
+        
         System.out.println();
         System.out.println("Benchmarking Linear Search on sorted array: ");
         System.out.println("Number of data in sorted array: " + sortedData.size());
