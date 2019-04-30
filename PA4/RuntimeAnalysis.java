@@ -7,9 +7,6 @@ import java.util.HashMap;
  */
 public class RuntimeAnalysis {
 
-    HashMap<Long, Integer> a = new HashMap<>();
-
-
     private static final int NUM_DATA = 100000;
     private static final int NUM_SEARCH = 50000;
     private static final int NUM_RUN = 10;
