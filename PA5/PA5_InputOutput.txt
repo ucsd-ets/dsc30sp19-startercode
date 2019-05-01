@@ -1,0 +1,65 @@
+NOTE THAT THE WORD "Output:" IS NOT PART OF THE ACTUAL OUTPUT
+
+Query = “california”
+Output:
+Documents related to california are: [beach, los-angeles, san-diego, travel, yosemite]
+
+Query = “new-york”
+Output:
+Documents related to new-york are: [king-kong, los-angeles, manhattan, niagara, travel]
+
+Query = “yellow plant”
+Output:
+Documents related to yellow plant are: [pineapple]
+Documents related to yellow are: [pikachu]
+
+Query = “sunny california”
+Output:
+Documents related to sunny california are: [beach, san-diego]
+Documents related to sunny are: [manhattan]
+Documents related to california are: [los-angeles, travel, yosemite]
+
+Query = “tropical jungle”
+Output:
+The search yielded no results for tropical jungle
+Documents related to tropical are: [pineapple]
+Documents related to jungle are: [amazon]
+
+Query = “hello world”
+Output:
+The search yielded no results for hello world
+The search yielded no results for hello
+The search yielded no results for world
+
+Query = “california beach surf”
+Output:
+The search yielded no results for california beach surf
+Documents related to california are: [beach, los-angeles, san-diego, travel, yosemite]
+
+query = "roadtrip california sunny"
+The search yielded no results for roadtrip california sunny
+Documents related to roadtrip are: [travel]
+Documents related to california are: [beach, los-angeles, san-diego, yosemite]
+Documents related to sunny are: [manhattan]
+
+query = "greenish yellow fruit"
+The search yielded no results for greenish yellow fruit
+The search yielded no results for greenish
+Documents related to yellow are: [pikachu, pineapple]
+
+query = "island burger"
+The search yielded no results for island burger
+Documents related to island are: [king-kong]
+The search yielded no results for burger
+
+query = "yellow electric rodents"
+Documents related to yellow electric rodents are: [pikachu]
+Documents related to yellow are: [pineapple]
+
+query = "thunder electric rodents"
+Documents related to thunder electric rodents are: [pikachu]
+
+query = "SUNNY California"
+Documents related to SUNNY California are: [beach, san-diego]
+Documents related to sunny are: [manhattan]
+Documents related to california are: [los-angeles, travel, yosemite]
