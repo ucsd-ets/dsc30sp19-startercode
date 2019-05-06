@@ -1,0 +1,69 @@
+####START COURSE SCHEDULING####
+
+Waitlisting Walker(A11111) to Course DSC30 with 30 coins
+Waitlisting Marina(A65545) to Course DSC30 with 50 coins
+Waitlisting Don(A76548) to Course DSC10 with 25 coins
+Insufficient course coins. Cannot waitlist Walker(A11111) to DSC20
+Waitlisting Jeremy(A67876) to Course DSC20 with 20 coins
+Waitlisting Marina(A65545) to Course DSC20 with 30 coins
+
+####STARTING BATCH ENROLLMENT####
+Enrolling Don(A76548) to Course DSC10 with 25 coins
+Enrolling Marina(A65545) to Course DSC20 with 30 coins
+Enrolling Marina(A65545) to Course DSC30 with 50 coins
+Enrolling Jeremy(A67876) to Course DSC20 with 20 coins
+Enrolling Walker(A11111) to Course DSC30 with 30 coins
+####ENDING BATCH ENROLLMENT####
+
+Insufficient course coins. Cannot waitlist Walker(A11111) to DSC40B
+Waitlisting Jeremy(A67876) to Course DSC10 with 30 coins
+Waitlisting Don(A76548) to Course DSC20 with 15 coins
+Don(A76548)is already waitlisted in Course DSC20
+Waitlisting Don(A76548) to Course DSC40A with 15 coins
+
+####STARTING BATCH ENROLLMENT####
+Enrolling Jeremy(A67876) to Course DSC10 with 30 coins
+Enrolling Don(A76548) to Course DSC20 with 15 coins
+Enrolling Don(A76548) to Course DSC40A with 15 coins
+####ENDING BATCH ENROLLMENT####
+
+Waitlisting Krushi(A55555) to Course DSC30 with 30 coins
+
+####END COURSE SCHEDULING####
+
+
+########COURSE INFORMATION######
+DSC10  Principles_of_Data_Science
+	Roster: [Don(A76548), Jeremy(A67876)]
+DSC20  Algorithms_Programming_and_Data_Structures_for_Data_Science_I
+	Roster: [Marina(A65545), Jeremy(A67876), Don(A76548)]
+DSC30  Algorithms_Programming_and_Data_Structures_for_Data_Science_II
+	Roster: [Marina(A65545), Walker(A11111)]
+DSC40A  Data_Meets_Theory_I
+	Roster: [Don(A76548)]
+DSC40B  Data_Meets_Theory_II
+	Roster: []
+
+
+########STUDENT INFORMATION######
+Walker(A11111)
+	 Enrolled courses: [DSC30]
+	 Waitlisted courses: []
+Don(A76548)
+	 Enrolled courses: [DSC10, DSC20, DSC40A]
+	 Waitlisted courses: []
+Marina(A65545)
+	 Enrolled courses: [DSC20, DSC30]
+	 Waitlisted courses: []
+Jeremy(A67876)
+	 Enrolled courses: [DSC20, DSC10]
+	 Waitlisted courses: []
+Jenny(A67460)
+	 Enrolled courses: []
+	 Waitlisted courses: []
+Krushi(A55555)
+	 Enrolled courses: []
+	 Waitlisted courses: [DSC30]
+Xindong(A12345)
+	 Enrolled courses: []
+	 Waitlisted courses: []

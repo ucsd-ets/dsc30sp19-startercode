@@ -1,0 +1,15 @@
+Courses
+DSC10 Principles_of_Data_Science 4
+DSC20 Algorithms_Programming_and_Data_Structures_for_Data_Science_I 6
+DSC30 Algorithms_Programming_and_Data_Structures_for_Data_Science_II 8
+DSC40A Data_Meets_Theory_I 5
+DSC40B Data_Meets_Theory_II 3
+
+Students
+Walker A11111 50
+Don A76548 65
+Marina A65545 80
+Jeremy A67876 55
+Jenny A67460 50
+Krushi A55555 45
+Xindong A12345 50

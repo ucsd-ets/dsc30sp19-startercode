@@ -1,0 +1,80 @@
+####START COURSE SCHEDULING####
+
+Waitlisting Walker(A11111) to Course DSC30 with 30 coins
+Waitlisting Marina(A65545) to Course DSC30 with 20 coins
+Waitlisting Don(A76548) to Course DSC10 with 25 coins
+Waitlisting Walker(A11111) to Course DSC10 with 10 coins
+
+####STARTING BATCH ENROLLMENT####
+####ENDING BATCH ENROLLMENT####
+
+Waitlisting Walker(A11111) to Course DSC20 with 5 coins
+Waitlisting Jeremy(A67876) to Course DSC20 with 10 coins
+Waitlisting Don(A76548) to Course DSC40B with 15 coins
+Waitlisting Krushi(A55555) to Course DSC30 with 30 coins
+Waitlisting Don(A76548) to Course DSC40A with 15 coins
+
+####STARTING BATCH ENROLLMENT####
+Enrolling Don(A76548) to Course DSC10 with 25 coins
+Enrolling Jeremy(A67876) to Course DSC20 with 10 coins
+Enrolling Walker(A11111) to Course DSC30 with 30 coins
+Enrolling Don(A76548) to Course DSC40A with 15 coins
+Enrolling Don(A76548) to Course DSC40B with 15 coins
+####ENDING BATCH ENROLLMENT####
+
+Krushi(A55555)is already waitlisted in Course DSC30
+Don(A76548)is already enrolled in Course DSC40B
+Waitlisting Jeremy(A67876) to Course DSC10 with 10 coins
+Insufficient course coins. Cannot waitlist Don(A76548) to DSC30
+Waitlisting Krushi(A55555) to Course DSC10 with 12 coins
+Insufficient course coins. Cannot waitlist Krushi(A55555) to DSC40A
+Waitlisting Jenny(A67460) to Course DSC40B with 20 coins
+
+####STARTING BATCH ENROLLMENT####
+Enrolling Krushi(A55555) to Course DSC10 with 12 coins
+Enrolling Walker(A11111) to Course DSC20 with 5 coins
+Enrolling Krushi(A55555) to Course DSC30 with 30 coins
+Enrolling Jenny(A67460) to Course DSC40B with 20 coins
+Enrolling Walker(A11111) to Course DSC10 with 10 coins
+Enrolling Marina(A65545) to Course DSC30 with 20 coins
+####ENDING BATCH ENROLLMENT####
+
+
+####END COURSE SCHEDULING####
+
+
+########COURSE INFORMATION######
+DSC10  Principles_of_Data_Science
+	Roster: [Don(A76548), Krushi(A55555), Walker(A11111)]
+DSC20  Algorithms_Programming_and_Data_Structures_for_Data_Science_I
+	Roster: [Jeremy(A67876), Walker(A11111)]
+DSC30  Algorithms_Programming_and_Data_Structures_for_Data_Science_II
+	Roster: [Walker(A11111), Krushi(A55555), Marina(A65545)]
+DSC40A  Data_Meets_Theory_I
+	Roster: [Don(A76548)]
+DSC40B  Data_Meets_Theory_II
+	Roster: [Don(A76548), Jenny(A67460)]
+
+
+########STUDENT INFORMATION######
+Walker(A11111)
+	 Enrolled courses: [DSC30, DSC20, DSC10]
+	 Waitlisted courses: []
+Don(A76548)
+	 Enrolled courses: [DSC10, DSC40A, DSC40B]
+	 Waitlisted courses: []
+Marina(A65545)
+	 Enrolled courses: [DSC30]
+	 Waitlisted courses: []
+Jeremy(A67876)
+	 Enrolled courses: [DSC20]
+	 Waitlisted courses: [DSC10]
+Jenny(A67460)
+	 Enrolled courses: [DSC40B]
+	 Waitlisted courses: []
+Krushi(A55555)
+	 Enrolled courses: [DSC10, DSC30]
+	 Waitlisted courses: []
+Xindong(A12345)
+	 Enrolled courses: []
+	 Waitlisted courses: []

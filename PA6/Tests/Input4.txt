@@ -1,0 +1,14 @@
+register A11111 DSC30 30
+register A65545 DSC30 50
+register A76548 DSC10 25
+register A11111 DSC20 40
+register A67876 DSC20 20
+register A65545 DSC20 30
+enroll 2
+register A11111 DSC40B 50
+register A67876 DSC10 30
+register A76548 DSC20 15
+register A76548 DSC20 25
+register A76548 DSC40A 15
+enroll 1
+register A55555 DSC30 30
