@@ -9,7 +9,6 @@ public class SearchEngine {
 	/* Populate a BST from a file
 	 * @param searchTree - BST to be populated
 	 * @param fileName - name of the input file
-	 * @returns false if file not found, true otherwise
 	 */
 	public static boolean populateSearchTree(BSTree<String> searchTree, String fileName) {
 		File file = new File(fileName);
