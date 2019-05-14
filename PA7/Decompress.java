@@ -1,9 +1,9 @@
 import java.io.*;
 
 /**
- * Uncompress the first given file to the second given file using Huffman coding
+ * Decompress the first given file to the second given file using Huffman coding
  */
-public class Uncompress {
+public class Decompress {
     private static final int EXP_ARG = 2; // number of expected arguments
 
     public static void main(String[] args) throws IOException {
