@@ -11,7 +11,7 @@ public class Decompress {
         // Check if the number of arguments is correct
         if (args.length != EXP_ARG) {
             System.out.println("Invalid number of arguments.\n" +
-                    "Usage: ./uncompress <infile outfile>.\n");
+                    "Usage: ./decompress <infile outfile>.\n");
             return;
         }
 
